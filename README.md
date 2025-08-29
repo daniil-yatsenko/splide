@@ -1,0 +1,2 @@
+# splide
+Splidejs for CDN
